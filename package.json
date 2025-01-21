@@ -1,0 +1,15 @@
+{
+  "name": "registration-validation",
+  "version": "1.0.0",
+  "description": "Webový server s klientskou a serverovou validací formuláře pomocí Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vaše jméno",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
