@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+    display: block;
+  }
+  .text {
+    text-align: center;
+  }
+  
